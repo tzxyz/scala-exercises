@@ -4,7 +4,8 @@ version := "1.0"
 
 scalaVersion := "2.12.3"
 
-// Change this to another test framework if you prefer
+libraryDependencies += "org.typelevel" %% "cats-core" % "1.0.0-MF"
+
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.0" % "test"
 
 

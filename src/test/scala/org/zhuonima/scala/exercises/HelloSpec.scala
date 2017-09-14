@@ -1,3 +1,5 @@
+package org.zhuonima.scala.exercises
+
 import org.scalatest._
 
 class HelloSpec extends FlatSpec with Matchers {
