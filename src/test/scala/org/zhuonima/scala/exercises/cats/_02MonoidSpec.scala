@@ -2,7 +2,7 @@ package org.zhuonima.scala.exercises.cats
 
 import org.scalatest._
 
-class MonoidSpec extends FlatSpec with Matchers {
+class _02MonoidSpec extends FlatSpec with Matchers {
 
   import cats._
   import cats.implicits._
